@@ -132,13 +132,13 @@ h3{
         position: relative;
         top: 250px;
         left: -40px;
-        perspective: 3000px;
+        perspective: 4000px;
 
     }
 
     .card{
         top: 100px;
-        left: 30px;
+        left: 35px;
     }
 
     .card:hover{
