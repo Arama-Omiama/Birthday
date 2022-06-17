@@ -131,12 +131,12 @@ h3{
     .block{
         position: relative;
         top: 250px;
-        left: 0px;
+        left: -20px;
     }
 
     .card{
         top: 100px;
-        left: 70px;
+        left: 50px;
     }
 
 }
