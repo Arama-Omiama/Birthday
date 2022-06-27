@@ -35,7 +35,7 @@ h3{
     width: 280px;
     height: 360px;
     position: relative;
-    top: 100px;
+    top: 60px;
     left: 230px;
     transition: 2s;
     transform-style: preserve-3d;
@@ -115,13 +115,32 @@ h3{
     background-color: burlywood;
     top: 210px;
 }
-/*
-.music{
-    display: none;
+
+audio{
+    margin: 10px 0px 0px 550px ;
 }
-*/
+
+.button {
+    background-color: rgb(233, 190, 190); 
+    color: black; 
+    border: 2px solid #f44336;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 20px 0px 0px 630px ;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button3:hover {
+    background-color: #f44336;
+    color: white;
+  }
+  
 
 
+  
 @media (max-width:576px) {
 
 
