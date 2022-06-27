@@ -128,7 +128,7 @@ audio{
     text-align: center;
     text-decoration: none;
     font-size: 16px;
-    margin: 20px 0px 0px 630px ;
+    margin: 20px 0px 0px 610px ;
     transition-duration: 0.4s;
     cursor: pointer;
   }
@@ -179,7 +179,7 @@ audio{
         text-align: center;
         text-decoration: none;
         font-size: 16px;
-        margin: 20px 0px 0px 120px ;
+        margin: 20px 0px 0px 100px ;
         transition-duration: 0.4s;
         cursor: pointer;
       }
